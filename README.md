@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgbgautam&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgbgautam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgbgautam" alt="rahulgbgautam" /></a> </p>
-
 - 💬 Ask me about **PHP,Laravel,JS,NodeJS**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgbgautam&show_icons=true&locale=en&layout=compact" alt="rahulgbgautam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgbgautam&show_icons=true&locale=en" alt="rahulgbgautam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgbgautam&" alt="rahulgbgautam" /></p>
