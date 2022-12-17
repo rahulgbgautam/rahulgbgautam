@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgbgautam&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgbgautam" /> </p>
 
-- 💬 Ask me about **PHP,Laravel,JS,NodeJS**
+- 💬 Ask me about **PHP,Laravel,JS,NodeJS,ExpressJs,MongoDb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
