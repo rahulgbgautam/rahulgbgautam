@@ -2,7 +2,7 @@ Software Engineer with Excellent problem solving skills and ability to perform w
 with strong expertise in Node.js, Express.js, Laravel, MongoDB, MySQL, GraphQL, and modern ORMs like Prisma, Sequelize, Drizzle, Mongoose.
 I build scalable microservices, high-performance APIs, and production-grade full-stack applications.
 
-My skill set also includes Docker, Kubernetes, Redis, CI/CD pipelines, AWS basics, Git, and container-based deployments. This allows me to not only develop applications but also architect, optimize, deploy, and automate them end-to-end
+My skill set also includes Docker, Redis, AWS basics, Git, and container-based deployments. This allows me to not only develop applications but also architect, optimize, deploy, and automate them end-to-end
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-gautam-b0315416b/) 
